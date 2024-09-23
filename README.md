@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, my name is Yu Sun, I like to program, I am curretly a student.
 <!--
 **yusun-lab/yusun-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
